@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul3HomeWork1ConsoleApp",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul3HomeWork2ConsoleApp", "Modul3HomeWork2ConsoleApp\Modul3HomeWork2ConsoleApp.csproj", "{2A89B665-6305-4981-9CB5-938203718F2E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul3HomeWork3ConsoleApp", "Modul3HomeWork3ConsoleApp\Modul3HomeWork3ConsoleApp.csproj", "{986178BE-23FC-4EEB-8ADF-E877857D138B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Modul3HomeWork4ConsoleApp", "Modul3HomeWork4ConsoleApp\Modul3HomeWork4ConsoleApp.csproj", "{B4657F36-1763-435F-B0D8-1B1091DB6993}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{2A89B665-6305-4981-9CB5-938203718F2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A89B665-6305-4981-9CB5-938203718F2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A89B665-6305-4981-9CB5-938203718F2E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{986178BE-23FC-4EEB-8ADF-E877857D138B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{986178BE-23FC-4EEB-8ADF-E877857D138B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{986178BE-23FC-4EEB-8ADF-E877857D138B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{986178BE-23FC-4EEB-8ADF-E877857D138B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4657F36-1763-435F-B0D8-1B1091DB6993}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4657F36-1763-435F-B0D8-1B1091DB6993}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4657F36-1763-435F-B0D8-1B1091DB6993}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4657F36-1763-435F-B0D8-1B1091DB6993}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -71,7 +71,7 @@ namespace Modul3HomeWork2ConsoleApp
                 }
                 if (i + 1 < count)
                 {
-                    inputCards += ",";
+                    inputCards += ", ";
                 }
             }
 
